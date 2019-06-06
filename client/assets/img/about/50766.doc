@@ -1,0 +1,133 @@
+<style type="text/css">
+	table{
+		font-size: 13px;
+    width: 100%;
+	}
+	td{
+		font-family: calibri,Comic Sans MS;
+		padding: 8px;
+    	text-align: left;
+      text-transform:uppercase;
+	}
+	tr:nth-child(even) {background-color: #f2f2f2}
+</style>
+     <table border='1' cellpadding='1' cellspacing='1'>
+       
+           <tr>
+          	<td colspan="3" width="50%">
+             <strong style="color:red;"><h2>SERVICIO N° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .</h2></strong> 
+            </td>
+          	<td colspan="2" width="50%">
+          		<strong>FOLIO: </strong>50766 <br>
+          		<strong>FACTURA: </strong> <br>
+          		<strong>CLIENTE: </strong>ATLAS <br>
+          		
+          	</td>
+          </tr>
+          <tr>
+            <td colspan="2"><strong>FECHA: </strong>2019-05-04</td>
+            <td><strong>HORA: </strong>02 : 27 : 43</td>
+            <td><strong>F. PARAMEDICO: </strong>42699</td>
+            <td><strong>COSTO: </strong></td>
+          </tr>
+
+          <tr>
+            <td colspan="5"><strong>PACIENTE: </strong>RUBI MAGDALENA AYALA PEREZ </td>
+          </tr>
+
+          <tr>
+            <td><strong>EDAD: </strong>24</td>
+            <td colspan="2"><strong>SEXO: </strong>FEMENINO</td>
+            <td colspan="2"><strong>SERVICIO: </strong>AMBULANCIA</td>
+
+          </tr>
+
+          <tr>
+            <td colspan="3"><strong>PROCEDENCIA: </strong>EJE 1 E IGNACIO ALLENDE</td>
+            <td colspan="2"><strong>SOLICITO: </strong>MIGUEL ANGEL VILLANUEVA</td>
+          </tr>
+
+          <tr>
+            <td colspan="3"><strong>COLONIA: </strong>LAGUNILLA</td>
+            <td colspan="2"><strong>RELACION: </strong>CABINA DE SINIESTROS </td>
+          </tr>
+
+          <tr>
+            <td colspan="3"><strong>DESTINO: </strong>SE ATIENDE EN EL LUGAR</td>
+            <td colspan="2"><strong>TELEFONO: </strong>91775050</td>
+          </tr>
+
+          <tr>
+            <td colspan="3"><strong>COLONIA: </strong>LAGUNILLA</td>
+            <td ><strong>RT: </strong>NAYELI</td>
+            <td ><strong>UNIDAD: </strong>15</td>
+          </tr>
+
+
+
+
+          <tr>
+          	<td colspan="5"> <strong>PERSONAL DE SERVICIO: </strong>
+            
+                        </td>
+          </tr>
+
+          <tr>
+          	<td><strong>POLIZA: </strong><BR>M53-4215-INC 1</td>
+            <td><strong>SINIESTRO: </strong><BR>D00-20761/2019</td>
+            <td><strong>REPORTE: </strong><BR></td>
+            <td><strong>AUTORIZACION: </strong><BR></td>
+            <td><strong>No EMPLEADO: </strong><BR></td>
+          </tr>
+
+          <tr>
+            <td colspan="5"><strong>DIAGNOSTICO: </strong>POLICONTNDIDO + CERVICALGIA </td>
+          </tr>
+
+          <tr>
+            <td colspan="5"><strong>OBSERVACION: </strong>SIN EVENTUALIDADES </td>
+          </tr>
+
+
+
+
+
+
+        
+      </table>
+<br> <br>
+    <table border='1' cellpadding='1' cellspacing='1'>
+        <tr>
+          <td width="10%"><strong>NX</strong></td>
+          <td width="10%"><strong>UNIDAD</strong></td>
+          <td width="10%"><strong>TIEMPO</strong></td>
+          <td width="10%"><strong>MOVIMIENTO</strong></td>
+          <td width="30%"><strong>PROCEDENCIA</strong></td>
+          <td width="30%"><strong>DESTINO</strong></td>
+        </tr>
+           <tr>
+            <td width="10%"></td>
+            <td width="10%">15 </td>
+            <td width="10%">01:48 </td>
+            <td width="10%">TERMINO </td>
+            <td width="30%">LAGUNILLA EJE 1 </td>
+            <td width="30%">CENTRAL </td>
+          </tr>
+                  <tr>
+            <td width="10%"></td>
+            <td width="10%">15 </td>
+            <td width="10%">00:49 </td>
+            <td width="10%">LLEGADA </td>
+            <td width="30%"> </td>
+            <td width="30%">LAGUNILLA EJE 1  </td>
+          </tr>
+                  <tr>
+            <td width="10%">15</td>
+            <td width="10%">15 </td>
+            <td width="10%">00:35 </td>
+            <td width="10%">SALIDA </td>
+            <td width="30%">CENTRAL </td>
+            <td width="30%">LAGUNILLA EJE 1  </td>
+          </tr>
+        
+      </table>

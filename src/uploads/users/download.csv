@@ -1,0 +1,5 @@
+﻿"Id","Nombre","Apellido PAterno","Apellido Materno","Clave de empleado","Correo electronico","Usuario","Password","Rol","fecha de creacion","Activo","Fecha de salida","Ultima actualizacion","Ultimo quien modifico"
+"1","Oscar Alejandro","Ramirez","Ramirez","1905AM01","1@ambulanciashumanas.com.mx","admin1","$2a$10$6JI.V/yYJ1iVya/12O2QS.NGi8ZAK8GTRWsW491JsfIRvX0kd1rpW","Direccion","2019-05-27T18:13:41.000Z","0","","2019-05-25T13:15:38.000Z","1905AD90"
+"4","Eduardo","Arias","Arias","0101AD01","4@ambulanciashumanas.com.mx","super1","$2a$10$zd.cgSQswfit1PTxRq4GjOkaCcFh9z5jFbEuf2ntxiLvzl1fn/Rxi","Sistemas","2019-05-14T00:52:59.000Z","0","","2019-05-25T13:12:57.000Z","1905AD90"
+"5","Braulio","Villareal","Orozco","0101OP01","5@ambulanciashumanas.com.mx","opr2","$2a$10$iMlZNZBzjj.PuzDplDNJtOj7/kCXUPSXr3hW.2DDCmsnqfbgpJCxe","Sistemas","2019-05-12T18:54:03.000Z","1","","2019-05-25T13:13:01.000Z","1905AD90"
+"6","Pruebas ","Pruebas","Pruebas","1905AD90","6@ambulanciashumanas.com.mx","pruebas","$2a$10$RLRXRkIvPwjfRopBUzd6TujNDh7AqfYxVAOpJRRxKw1zADJrKStLq","Supervisor","2019-05-25T11:01:36.000Z","1","","2019-05-24T22:42:00.000Z","1905AM83"

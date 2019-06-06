@@ -1,0 +1,30 @@
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="175.921px" height="175.922px" viewBox="0 0 175.921 175.922"
+	 style="overflow:scroll;enable-background:new 0 0 175.921 175.922;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#E8E0E0;}
+	.st3{fill:url(#SVGID_2_);}
+</style>
+<defs>
+</defs>
+<g>
+	<path class="st0" d="M175.921,139.782c0,19.958-16.185,36.141-36.133,36.141H36.138C16.178,175.922,0,159.74,0,139.782V36.133
+		C0,16.175,16.178,0,36.138,0h103.65c19.948,0,36.133,16.175,36.133,36.133V139.782z"/>
+	<g>
+		<radialGradient id="SVGID_1_" cx="85.8055" cy="151.2631" r="127.1925" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.1684" style="stop-color:#C2181E"/>
+			<stop  offset="0.7653" style="stop-color:#DE2925"/>
+		</radialGradient>
+		<path class="st1" d="M154.065,103.914c0,16.664-5.699,30.17-22.354,30.17H45.989c-16.663,0-24.139-13.506-24.139-30.17V72.009
+			c0-16.664,6.767-30.167,23.427-30.167h87.137c16.664,0,21.651,13.503,21.651,30.167V103.914z"/>
+		<g>
+			<polygon class="st0" points="74.709,69.937 110.723,88.734 74.709,107.525 			"/>
+			<polygon class="st2" points="74.709,70.222 106.03,91.174 110.723,88.734 77.491,71.393 74.709,70.185 			"/>
+		</g>
+	</g>
+</g>
+</svg>

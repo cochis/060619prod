@@ -1,0 +1,37 @@
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="175.921px" height="175.926px" viewBox="0 0 175.921 175.926"
+	 style="overflow:scroll;enable-background:new 0 0 175.921 175.926;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:url(#SVGID_2_);}
+</style>
+<defs>
+</defs>
+<g>
+	<radialGradient id="SVGID_1_" cx="51.5322" cy="189.5497" r="233.1221" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0969" style="stop-color:#FFD879"/>
+		<stop  offset="0.1539" style="stop-color:#FCCB76"/>
+		<stop  offset="0.2583" style="stop-color:#F5AA6C"/>
+		<stop  offset="0.3976" style="stop-color:#E9755E"/>
+		<stop  offset="0.449" style="stop-color:#E45F58"/>
+		<stop  offset="0.6786" style="stop-color:#D22A9C"/>
+		<stop  offset="1" style="stop-color:#6968DF"/>
+	</radialGradient>
+	<path class="st0" d="M175.921,139.793c0,19.949-16.183,36.133-36.134,36.133H36.134C16.176,175.926,0,159.742,0,139.793V36.144
+		C0,16.186,16.176,0,36.134,0h103.653c19.951,0,36.134,16.186,36.134,36.144V139.793z"/>
+	<g>
+		<path class="st1" d="M113.421,21.625h-50.92c-22.579,0-40.88,18.302-40.88,40.883v50.916c0,22.574,18.301,40.874,40.88,40.874
+			h50.92c22.578,0,40.877-18.3,40.877-40.874V62.509C154.298,39.928,135.999,21.625,113.421,21.625z M141.563,108.537
+			c0,18.248-14.793,33.031-33.028,33.031H67.387c-18.245,0-33.034-14.783-33.034-33.031V67.389
+			c0-18.236,14.789-33.031,33.034-33.031h41.148c18.235,0,33.028,14.795,33.028,33.031V108.537z"/>
+		<path class="st1" d="M89.739,53.25c-19.306,0-34.951,15.641-34.951,34.945c0,19.294,15.646,34.946,34.951,34.946
+			c19.299,0,34.945-15.652,34.945-34.946C124.685,68.89,109.038,53.25,89.739,53.25z M89.739,109.218
+			c-11.621,0-21.03-9.417-21.03-21.024c0-11.62,9.409-21.026,21.03-21.026c11.608,0,21.023,9.407,21.023,21.026
+			C110.763,99.801,101.348,109.218,89.739,109.218z"/>
+		<ellipse class="st1" cx="122.265" cy="52.702" rx="8.886" ry="8.889"/>
+	</g>
+</g>
+</svg>

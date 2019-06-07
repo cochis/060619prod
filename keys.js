@@ -7,7 +7,7 @@ exports.default = {
         // password: '?^KW1-cG_2w7',
         host: 'localhost',
         user: 'root',
-        password: 'AmbulanciasH2019',
+        password: '',
         database: 'ambulanc_newbase'
     }
 };

@@ -8,6 +8,6 @@ exports.default = {
         host: '127.0.0.1',
         user: 'root',
         password: 'AmbulanciasH2019',
-        database: 'ambulanc_newBase'
+        database: 'ambulanc_newbase'
     }
 };
